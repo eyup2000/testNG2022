@@ -12,4 +12,13 @@ public class DefaultPage {
 
     @FindBy(xpath = "//span[@class='hidden-480']")
     public WebElement addUser;
+
+    @FindBy(xpath = "//span[.='Hotel Management']")
+    public WebElement hotelManagement;
+
+    @FindBy (partialLinkText = "Hotel Rooms")
+    public WebElement hotelRooms;
+
+    @FindBy (xpath = "//span[@class='hidden-480']")
+    public WebElement addHotelRooms;
 }
