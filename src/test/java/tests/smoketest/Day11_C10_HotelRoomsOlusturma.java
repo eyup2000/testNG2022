@@ -21,6 +21,7 @@ public class Day11_C10_HotelRoomsOlusturma {
     DefaultPage defaultPage = new DefaultPage();
     HotelRoomsPage hotelRoomsPage= new HotelRoomsPage();
     Faker faker=new Faker();
+
     @BeforeMethod
     public void setUp(){
         Driver.getDriver().get(ConfigReader.getProperty("app_url_login"));
