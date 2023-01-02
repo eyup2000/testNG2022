@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce702b98-6b05-48fb-9d36-7e45c2b21baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/hesapCreate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/alistirma/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/hesapCreate2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/alistirma/A2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/smoketest/Day11_C10_HotelRoomsOlusturma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/smoketest/Day11_C10_HotelRoomsOlusturma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.A1.a">
+  <component name="RunManager" selected="TestNG.A2.Alisitrma2">
     <configuration name="A1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
       <extension name="coverage">
@@ -72,6 +71,24 @@
       <option name="PACKAGE_NAME" value="tests.alistirma" />
       <option name="MAIN_CLASS_NAME" value="tests.alistirma.A1" />
       <option name="METHOD_NAME" value="a" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A2.Alisitrma2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testNG2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.alistirma.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.alistirma" />
+      <option name="MAIN_CLASS_NAME" value="tests.alistirma.A2" />
+      <option name="METHOD_NAME" value="Alisitrma2" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -114,31 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day11_C9_NegativeLoginTest.invalidIDAndPassword" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testNG2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.smoketest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.smoketest" />
-      <option name="MAIN_CLASS_NAME" value="tests.smoketest.Day11_C9_NegativeLoginTest" />
-      <option name="METHOD_NAME" value="invalidIDAndPassword" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.A2.Alisitrma2" />
         <item itemvalue="TestNG.A1.a" />
         <item itemvalue="TestNG.A1" />
         <item itemvalue="TestNG.Day11_C10_HotelRoomsOlusturma.hotelRoomOlusturma" />
         <item itemvalue="TestNG.Day11_C10_HotelRoomsOlusturma" />
-        <item itemvalue="TestNG.Day11_C9_NegativeLoginTest.invalidIDAndPassword" />
       </list>
     </recent_temporary>
   </component>
