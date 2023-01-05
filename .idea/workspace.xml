@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce702b98-6b05-48fb-9d36-7e45c2b21baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/hesapCreate2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/alistirma/A2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/excelAutomation/Day12_C12_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Day12_C11_WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ExcelUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/JSUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/KullanisliMethodlar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,43 +37,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
-}</component>
-  <component name="RunManager" selected="TestNG.A2.Alisitrma2">
-    <configuration name="A1" type="TestNG" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\testNG2022\src\test\java\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Day12_C12_ReadExcel.ReadExcel">
+    <configuration name="Day12_C11_WebTables.printCells" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.alistirma.*" />
+          <option name="PATTERN" value="tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.alistirma" />
-      <option name="MAIN_CLASS_NAME" value="tests.alistirma.A1" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="A1.a" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testNG2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.alistirma.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.alistirma" />
-      <option name="MAIN_CLASS_NAME" value="tests.alistirma.A1" />
-      <option name="METHOD_NAME" value="a" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.Day12_C11_WebTables" />
+      <option name="METHOD_NAME" value="printCells" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -78,17 +69,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A2.Alisitrma2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Day12_C11_WebTables.printColumns" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.alistirma.*" />
+          <option name="PATTERN" value="tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.alistirma" />
-      <option name="MAIN_CLASS_NAME" value="tests.alistirma.A2" />
-      <option name="METHOD_NAME" value="Alisitrma2" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.Day12_C11_WebTables" />
+      <option name="METHOD_NAME" value="printColumns" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -96,16 +87,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day11_C10_HotelRoomsOlusturma" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Day12_C11_WebTables.printRows" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.smoketest.*" />
+          <option name="PATTERN" value="tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.smoketest" />
-      <option name="MAIN_CLASS_NAME" value="tests.smoketest.Day11_C10_HotelRoomsOlusturma" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.Day12_C11_WebTables" />
+      <option name="METHOD_NAME" value="printRows" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day12_C12_ReadExcel" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testNG2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="excelAutomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="excelAutomation" />
+      <option name="MAIN_CLASS_NAME" value="excelAutomation.Day12_C12_ReadExcel" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -113,17 +122,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day11_C10_HotelRoomsOlusturma.hotelRoomOlusturma" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Day12_C12_ReadExcel.ReadExcel" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.smoketest.*" />
+          <option name="PATTERN" value="excelAutomation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.smoketest" />
-      <option name="MAIN_CLASS_NAME" value="tests.smoketest.Day11_C10_HotelRoomsOlusturma" />
-      <option name="METHOD_NAME" value="hotelRoomOlusturma" />
+      <option name="PACKAGE_NAME" value="excelAutomation" />
+      <option name="MAIN_CLASS_NAME" value="excelAutomation.Day12_C12_ReadExcel" />
+      <option name="METHOD_NAME" value="ReadExcel" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -133,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.A2.Alisitrma2" />
-        <item itemvalue="TestNG.A1.a" />
-        <item itemvalue="TestNG.A1" />
-        <item itemvalue="TestNG.Day11_C10_HotelRoomsOlusturma.hotelRoomOlusturma" />
-        <item itemvalue="TestNG.Day11_C10_HotelRoomsOlusturma" />
+        <item itemvalue="TestNG.Day12_C12_ReadExcel.ReadExcel" />
+        <item itemvalue="TestNG.Day12_C12_ReadExcel" />
+        <item itemvalue="TestNG.Day12_C11_WebTables.printColumns" />
+        <item itemvalue="TestNG.Day12_C11_WebTables.printCells" />
+        <item itemvalue="TestNG.Day12_C11_WebTables.printRows" />
       </list>
     </recent_temporary>
   </component>
