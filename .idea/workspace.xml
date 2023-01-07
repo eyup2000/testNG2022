@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce702b98-6b05-48fb-9d36-7e45c2b21baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/excelAutomation/Day13_C13_WriteExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/excelAutomation/Day13_C14_LoginSmokeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/Baskent.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/excelAutomation/Day12_C12_ReadExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/excelAutomation/Day12_C12_ReadExcel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/excelAutomation/Day13_C14_LoginSmokeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/excelAutomation/Day13_C14_LoginSmokeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,43 +45,8 @@
       <recent name="C:\Users\user\IdeaProjects\testNG2022\src\test\java\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Day13_C13_WriteExcel.writeExcel">
-    <configuration name="Day12_C12_ReadExcel" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testNG2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="excelAutomation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="excelAutomation" />
-      <option name="MAIN_CLASS_NAME" value="excelAutomation.Day12_C12_ReadExcel" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Day13_C14_LoginSmokeTest.managerLoginTest">
     <configuration name="Day12_C12_ReadExcel.ReadExcel (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testNG2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="excelAutomation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="excelAutomation" />
-      <option name="MAIN_CLASS_NAME" value="excelAutomation.Day12_C12_ReadExcel" />
-      <option name="METHOD_NAME" value="ReadExcel" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day12_C12_ReadExcel.ReadExcel" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
       <extension name="coverage">
         <pattern>
@@ -138,13 +100,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day13_C14_LoginSmokeTest.adminLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testNG2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="excelAutomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="excelAutomation" />
+      <option name="MAIN_CLASS_NAME" value="excelAutomation.Day13_C14_LoginSmokeTest" />
+      <option name="METHOD_NAME" value="adminLoginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day13_C14_LoginSmokeTest.managerLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testNG2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="excelAutomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="excelAutomation" />
+      <option name="MAIN_CLASS_NAME" value="excelAutomation.Day13_C14_LoginSmokeTest" />
+      <option name="METHOD_NAME" value="managerLoginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Day13_C14_LoginSmokeTest.managerLoginTest" />
+        <item itemvalue="TestNG.Day13_C14_LoginSmokeTest.adminLoginTest" />
         <item itemvalue="TestNG.Day13_C13_WriteExcel.writeExcel" />
         <item itemvalue="TestNG.Day12_C12_ReadExcel.excelUtilDemo" />
         <item itemvalue="TestNG.Day12_C12_ReadExcel.ReadExcel (1)" />
-        <item itemvalue="TestNG.Day12_C12_ReadExcel.ReadExcel" />
-        <item itemvalue="TestNG.Day12_C12_ReadExcel" />
       </list>
     </recent_temporary>
   </component>
