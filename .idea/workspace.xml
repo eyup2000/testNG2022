@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce702b98-6b05-48fb-9d36-7e45c2b21baa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/dataprovider/Day14_C16_DataProvider1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dataprovider/Day14_C17_DataProvider2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dataprovider/Day14_C18_DataProvider2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/javascriptexecutor/Day14_C15_JSUtilTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/excelAutomation/Day13_C14_LoginSmokeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/excelAutomation/Day13_C14_LoginSmokeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,18 +48,18 @@
       <recent name="C:\Users\user\IdeaProjects\testNG2022\src\test\java\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Day13_C14_LoginSmokeTest.managerLoginTest">
-    <configuration name="Day12_C12_ReadExcel.ReadExcel (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Day14_C18_DataProvider2.managerLoginTest">
+    <configuration name="Day14_C15_JSUtilTest.changeColor" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excelAutomation.*" />
+          <option name="PATTERN" value="javascriptexecutor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="excelAutomation" />
-      <option name="MAIN_CLASS_NAME" value="excelAutomation.Day12_C12_ReadExcel" />
-      <option name="METHOD_NAME" value="ReadExcel" />
+      <option name="PACKAGE_NAME" value="javascriptexecutor" />
+      <option name="MAIN_CLASS_NAME" value="javascriptexecutor.Day14_C15_JSUtilTest" />
+      <option name="METHOD_NAME" value="changeColor" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -64,17 +67,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day12_C12_ReadExcel.excelUtilDemo" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Day14_C15_JSUtilTest.flashJS" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excelAutomation.*" />
+          <option name="PATTERN" value="javascriptexecutor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="excelAutomation" />
-      <option name="MAIN_CLASS_NAME" value="excelAutomation.Day12_C12_ReadExcel" />
-      <option name="METHOD_NAME" value="excelUtilDemo" />
+      <option name="PACKAGE_NAME" value="javascriptexecutor" />
+      <option name="MAIN_CLASS_NAME" value="javascriptexecutor.Day14_C15_JSUtilTest" />
+      <option name="METHOD_NAME" value="flashJS" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -82,17 +85,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day13_C13_WriteExcel.writeExcel" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Day14_C16_DataProvider1.managerInfo" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excelAutomation.*" />
+          <option name="PATTERN" value="dataprovider.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="excelAutomation" />
-      <option name="MAIN_CLASS_NAME" value="excelAutomation.Day13_C13_WriteExcel" />
-      <option name="METHOD_NAME" value="writeExcel" />
+      <option name="PACKAGE_NAME" value="dataprovider" />
+      <option name="MAIN_CLASS_NAME" value="dataprovider.Day14_C16_DataProvider1" />
+      <option name="METHOD_NAME" value="managerInfo" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -100,17 +103,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day13_C14_LoginSmokeTest.adminLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Day14_C17_DataProvider2.managerLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excelAutomation.*" />
+          <option name="PATTERN" value="dataprovider.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="excelAutomation" />
-      <option name="MAIN_CLASS_NAME" value="excelAutomation.Day13_C14_LoginSmokeTest" />
-      <option name="METHOD_NAME" value="adminLoginTest" />
+      <option name="PACKAGE_NAME" value="dataprovider" />
+      <option name="MAIN_CLASS_NAME" value="dataprovider.Day14_C17_DataProvider2" />
+      <option name="METHOD_NAME" value="managerLoginTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -118,16 +121,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day13_C14_LoginSmokeTest.managerLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Day14_C18_DataProvider2.managerLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excelAutomation.*" />
+          <option name="PATTERN" value="dataprovider.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="excelAutomation" />
-      <option name="MAIN_CLASS_NAME" value="excelAutomation.Day13_C14_LoginSmokeTest" />
+      <option name="PACKAGE_NAME" value="dataprovider" />
+      <option name="MAIN_CLASS_NAME" value="dataprovider.Day14_C18_DataProvider2" />
       <option name="METHOD_NAME" value="managerLoginTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -138,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Day13_C14_LoginSmokeTest.managerLoginTest" />
-        <item itemvalue="TestNG.Day13_C14_LoginSmokeTest.adminLoginTest" />
-        <item itemvalue="TestNG.Day13_C13_WriteExcel.writeExcel" />
-        <item itemvalue="TestNG.Day12_C12_ReadExcel.excelUtilDemo" />
-        <item itemvalue="TestNG.Day12_C12_ReadExcel.ReadExcel (1)" />
+        <item itemvalue="TestNG.Day14_C18_DataProvider2.managerLoginTest" />
+        <item itemvalue="TestNG.Day14_C17_DataProvider2.managerLoginTest" />
+        <item itemvalue="TestNG.Day14_C16_DataProvider1.managerInfo" />
+        <item itemvalue="TestNG.Day14_C15_JSUtilTest.changeColor" />
+        <item itemvalue="TestNG.Day14_C15_JSUtilTest.flashJS" />
       </list>
     </recent_temporary>
   </component>
