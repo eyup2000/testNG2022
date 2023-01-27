@@ -119,9 +119,10 @@ public class Day12_C12_ReadExcel {
 
         System.out.println(excelUtil.rowCount());//11
 
-        System.out.println(excelUtil.getCellData(5,1));//ottowa
+        System.out.println(excelUtil.getCellData(5,0));//ottowa
 
         System.out.println(excelUtil.getColumnsNames());//[Ulke, Baskent]
+
 
 
 

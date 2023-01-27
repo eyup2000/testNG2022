@@ -1,11 +1,11 @@
-package tests.alistirma;
+package tests.alıstirma;
 
 import com.github.javafaker.Faker;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-import Alistirma_Pages.hesapCreate;
+import pages.hesapCreate;
 import utilities.ConfigReader;
 import utilities.Driver;
 
@@ -13,15 +13,15 @@ public class A1 {
 
     hesapCreate hesapCreate = new hesapCreate();
     Faker faker = new Faker();
-    @BeforeMethod
+
     public void seUp(){
         Driver.getDriver().get(ConfigReader.getProperty("app_url_alistirma"));
 
     }
 
-    @Test
+    @Test(groups = "test-group-1")
     public void a(){
-
+    seUp();
         hesapCreate.login.click();
 
         hesapCreate.name.sendKeys(faker.name().firstName());

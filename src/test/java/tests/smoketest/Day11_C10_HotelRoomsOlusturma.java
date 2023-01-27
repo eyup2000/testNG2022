@@ -39,6 +39,7 @@ public class Day11_C10_HotelRoomsOlusturma {
 
     @Test
     public void hotelRoomOlusturma(){
+
         //hotel management click et
         defaultPage.hotelManagement.click();
 

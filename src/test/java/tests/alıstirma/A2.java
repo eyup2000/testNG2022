@@ -1,11 +1,11 @@
-package tests.alistirma;
+package tests.alıstirma;
 
 import com.github.javafaker.Faker;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-import Alistirma_Pages.hesapCreate2;
+import pages.hesapCreate2;
 import utilities.ConfigReader;
 import utilities.Driver;
 

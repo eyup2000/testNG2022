@@ -1,13 +1,10 @@
-package tests.alistirma;
+package tests.alıstirma;
 
-import Alistirma_Pages.TestPages;
-import org.apache.poi.ss.formula.functions.T;
+import pages.TestPages;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import utilities.ConfigReader;
 import utilities.Driver;
-
-import javax.security.auth.login.Configuration;
 
 public class A3 {
     TestPages testPages = new TestPages();

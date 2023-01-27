@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Arcane-Test-Suite">
+    <test name="class-test">
+        <classes>
+            <class name="tests.alıstirma.A1">
+                <methods>
+                    <include name="a"></include>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+
+    <test name="clas-test-2">
+        <classes>
+            <class name="tests.smoketest.Day10_C8_PositiveLoginTest"></class>
+        </classes>
+    </test>
+</suite>

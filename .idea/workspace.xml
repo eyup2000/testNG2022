@@ -5,14 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce702b98-6b05-48fb-9d36-7e45c2b21baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Alistirma_Pages/TestPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/alistirma/A3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel-testing-1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regressiontest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run-groups.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run-methods.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smoketest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/paralleltesting/ManagerLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/paralleltesting/SearchItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/paralleltesting/WebTables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/hesapCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Alistirma_Pages/hesapCreate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/hesapCreate2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Alistirma_Pages/hesapCreate2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/alistirma/A1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/alistirma/A1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/alistirma/A2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/alistirma/A2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Alistirma_Pages/TestPages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/TestPages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Alistirma_Pages/hesapCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/hesapCreate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Alistirma_Pages/hesapCreate2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/hesapCreate2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/excelAutomation/Day12_C12_ReadExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/excelAutomation/Day12_C12_ReadExcel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/excelAutomation/Day13_C13_WriteExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/excelAutomation/Day13_C13_WriteExcel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/Baskent.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/Baskent.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/alistirma/A1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/alıstirma/A1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/alistirma/A2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/alıstirma/A2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/alistirma/A3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/alıstirma/A3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/smoketest/Day11_C10_HotelRoomsOlusturma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/smoketest/Day11_C10_HotelRoomsOlusturma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,91 +64,51 @@
       <recent name="C:\Users\user\IdeaProjects\testNG2022\src\test\java\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.A3.sahibindenTest">
-    <configuration name="A1.a" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/user/IdeaProjects/testNG2022/regressiontest.xml">
+    <configuration name="C:/Users/user/IdeaProjects/testNG2022/parallel-testing-1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.alistirma.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.alistirma" />
-      <option name="MAIN_CLASS_NAME" value="tests.alistirma.A1" />
-      <option name="METHOD_NAME" value="a" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/parallel-testing-1.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A3.sahibindenTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/user/IdeaProjects/testNG2022/regressiontest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.alistirma.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.alistirma" />
-      <option name="MAIN_CLASS_NAME" value="tests.alistirma.A3" />
-      <option name="METHOD_NAME" value="sahibindenTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/regressiontest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day14_C16_DataProvider1.managerInfo" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/user/IdeaProjects/testNG2022/run-classes.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dataprovider.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="dataprovider" />
-      <option name="MAIN_CLASS_NAME" value="dataprovider.Day14_C16_DataProvider1" />
-      <option name="METHOD_NAME" value="managerInfo" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/run-classes.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day14_C17_DataProvider2.managerLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/user/IdeaProjects/testNG2022/run-groups.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dataprovider.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="dataprovider" />
-      <option name="MAIN_CLASS_NAME" value="dataprovider.Day14_C17_DataProvider2" />
-      <option name="METHOD_NAME" value="managerLoginTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/run-groups.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day14_C18_DataProvider2.managerLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/user/IdeaProjects/testNG2022/run-methods.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dataprovider.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="dataprovider" />
-      <option name="MAIN_CLASS_NAME" value="dataprovider.Day14_C18_DataProvider2" />
-      <option name="METHOD_NAME" value="managerLoginTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/run-methods.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -144,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.A3.sahibindenTest" />
-        <item itemvalue="TestNG.A1.a" />
-        <item itemvalue="TestNG.Day14_C18_DataProvider2.managerLoginTest" />
-        <item itemvalue="TestNG.Day14_C17_DataProvider2.managerLoginTest" />
-        <item itemvalue="TestNG.Day14_C16_DataProvider1.managerInfo" />
+        <item itemvalue="TestNG.C:/Users/user/IdeaProjects/testNG2022/regressiontest.xml" />
+        <item itemvalue="TestNG.C:/Users/user/IdeaProjects/testNG2022/parallel-testing-1.xml" />
+        <item itemvalue="TestNG.C:/Users/user/IdeaProjects/testNG2022/run-groups.xml" />
+        <item itemvalue="TestNG.C:/Users/user/IdeaProjects/testNG2022/run-methods.xml" />
+        <item itemvalue="TestNG.C:/Users/user/IdeaProjects/testNG2022/run-classes.xml" />
       </list>
     </recent_temporary>
   </component>
