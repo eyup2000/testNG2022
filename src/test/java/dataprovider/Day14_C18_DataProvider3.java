@@ -7,7 +7,7 @@ import utilities.ConfigReader;
 import utilities.Driver;
 import utilities.ExcelUtil;
 
-public class Day14_C18_DataProvider2 {
+public class Day14_C18_DataProvider3 {
 
     @DataProvider
     public Object [][] getData(){

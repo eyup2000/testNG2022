@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce702b98-6b05-48fb-9d36-7e45c2b21baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/alıstirma/A4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/locater.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/alıstirma/A4.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +46,19 @@
       <recent name="C:\Users\user\IdeaProjects\testNG2022\src\test\java\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Day12_C11_WebTables.printRows">
-    <configuration name="C:/Users/user/IdeaProjects/testNG2022/parallel-testing-1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Day12_C11_WebTables.printCells">
+    <configuration name="A4.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/parallel-testing-1.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.alıstirma.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.alıstirma" />
+      <option name="MAIN_CLASS_NAME" value="tests.alıstirma.A4" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -60,16 +68,6 @@
     <configuration name="C:/Users/user/IdeaProjects/testNG2022/regressiontest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/regressiontest.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/user/IdeaProjects/testNG2022/run-groups.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testNG2022" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/run-groups.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -88,6 +86,24 @@
       <option name="PACKAGE_NAME" value="tests" />
       <option name="MAIN_CLASS_NAME" value="tests.Day12_C11_WebTables" />
       <option name="METHOD_NAME" value="entireTable" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day12_C11_WebTables.printCells" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testNG2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.Day12_C11_WebTables" />
+      <option name="METHOD_NAME" value="printCells" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -115,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Day12_C11_WebTables.printRows" />
+        <item itemvalue="TestNG.Day12_C11_WebTables.printCells" />
         <item itemvalue="TestNG.Day12_C11_WebTables.entireTable" />
+        <item itemvalue="TestNG.A4.test" />
+        <item itemvalue="TestNG.Day12_C11_WebTables.printRows" />
         <item itemvalue="TestNG.C:/Users/user/IdeaProjects/testNG2022/regressiontest.xml" />
-        <item itemvalue="TestNG.C:/Users/user/IdeaProjects/testNG2022/parallel-testing-1.xml" />
-        <item itemvalue="TestNG.C:/Users/user/IdeaProjects/testNG2022/run-groups.xml" />
       </list>
     </recent_temporary>
   </component>
