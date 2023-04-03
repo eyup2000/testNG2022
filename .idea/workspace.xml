@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce702b98-6b05-48fb-9d36-7e45c2b21baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/locater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/pagess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/alıstirma/A4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/alıstirma/A4.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
       <recent name="C:\Users\user\IdeaProjects\testNG2022\src\test\java\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Day12_C11_WebTables.printCells">
+  <component name="RunManager" selected="TestNG.A4.test">
     <configuration name="A4.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
       <extension name="coverage">
@@ -131,9 +131,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.A4.test" />
         <item itemvalue="TestNG.Day12_C11_WebTables.printCells" />
         <item itemvalue="TestNG.Day12_C11_WebTables.entireTable" />
-        <item itemvalue="TestNG.A4.test" />
         <item itemvalue="TestNG.Day12_C11_WebTables.printRows" />
         <item itemvalue="TestNG.C:/Users/user/IdeaProjects/testNG2022/regressiontest.xml" />
       </list>
